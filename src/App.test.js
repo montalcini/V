@@ -5,3 +5,9 @@ import App from "./App";
 test("Trying to render <App />", () => {
   render(<App />);
 });
+
+
+test("Trying to render <App />", () => {
+  render(<App />);
+});
+
