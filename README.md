@@ -8,9 +8,6 @@ Remains of a SaaS business I once tried to build. Now transformed into a templat
 
 [<img src="/.github/gifs/showcase.gif">](https://reactsaastemplate.com "Go to demo website")
 
-
-## Getting Started
-
 ### Prerequisites
 
 #### Node.js 12+ (versions below could work, but are not tested)
